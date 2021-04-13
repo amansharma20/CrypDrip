@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crypdrip-dev-163729-authRole",
+      "UnauthRoleArn": "arn:aws:iam::712410131665:role/amplify-crypdrip-dev-163729-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::712410131665:role/amplify-crypdrip-dev-163729-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-crypdrip-dev-163729-deployment",
+      "UnauthRoleName": "amplify-crypdrip-dev-163729-unauthRole",
+      "StackName": "amplify-crypdrip-dev-163729",
+      "StackId": "arn:aws:cloudformation:us-east-1:712410131665:stack/amplify-crypdrip-dev-163729/759be950-92da-11eb-af68-120fbf0f0187",
+      "AmplifyAppId": "d1x0rfo150i81"
+    },
+    "categories": {
+      "auth": {
+        "crypdrip6402086d": {}
+      },
+      "function": {
+        "crypdrip6402086dPostConfirmation": {
+          "deploymentBucketName": "amplify-crypdrip-dev-163729-deployment",
+          "s3Key": "amplify-builds/crypdrip6402086dPostConfirmation-4c4f66514f6466507353-build.zip"
+        }
+      }
+    }
+  }
+}
